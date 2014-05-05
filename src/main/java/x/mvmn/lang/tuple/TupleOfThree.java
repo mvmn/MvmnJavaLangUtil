@@ -1,4 +1,4 @@
-package x.mvmn.lang.container;
+package x.mvmn.lang.tuple;
 
 public class TupleOfThree<A, B, C> {
 
